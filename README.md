@@ -70,5 +70,3 @@ Specially made with ❤️ to celebrate a wonderful birthday and create a memora
 ⭐ *If you like this project, feel free to give it a star!*
 
 ---
-
-If you want, I can also **upgrade this README to look more professional for GitHub (with badges, screenshots section, and author section)** so your project looks **more impressive in your portfolio** 🚀.

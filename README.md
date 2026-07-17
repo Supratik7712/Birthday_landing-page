@@ -59,6 +59,8 @@ No installation or additional setup is required.
 This project was created as a **creative digital birthday gift** to make the celebration more special and memorable.
 It demonstrates how web development can be used to build personalized experiences for loved ones.
 
+Video explanation - https://youtu.be/KFkuGmWoOs0?si=VqY-NcHq7tCAuoBL
+
 ---
 
 ## 🙌 Acknowledgement
